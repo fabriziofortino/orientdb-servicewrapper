@@ -1,4 +1,1 @@
-orientdb-wrapper
-================
-
-A service wrapper on top of OrientDB https://github.com/orientechnologies/orientdb
+A service wrapper execution for OrientDB using [Java Service Wrapper](http://wrapper.tanukisoftware.org/).
