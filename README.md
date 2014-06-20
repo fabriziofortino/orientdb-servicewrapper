@@ -1,12 +1,12 @@
 A service wrapper execution for OrientDB Server using [Java Service Wrapper](http://wrapper.tanukisoftware.org/).
 
-## Installing
+## Installation
 1. Download the orientdb-servicewrapper zip file or clone the github repository.
 2. Copy the `service` folder under the OrientDB `bin` directory.
 3. Edit the `orientdb.conf` file and change the variable *set.default.ORIENTDB_HOME* with the OrientDB installation path.
 
 ## Use
-To run OrientDB as a service go to the *bin/service* folder and execute the script `orientdb` (use the *.bat* on Windows) with one of the following parameters:
+To run OrientDB as a service go to the *bin/service* folder and execute the script `orientdb` with one of the following parameters:
 
 | Parameter     | Description   |
 | ------------- |:-------------:|
