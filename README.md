@@ -23,5 +23,9 @@ To run OrientDB as a service go to the *bin/service* folder and execute the scri
 ## Options
 By default orientdb-servicewrapper is configured to run OrientDB server with an initial heap size of 512M and a maximum heap size of 1024M. To change the memory configuration edit the properties *set.default.ORIENTDB_INIT_HEAP_SIZE* and *set.default.ORIENTDB_MAX_HEAP_SIZE* in the `orientdb.conf` file. 
 
-## Notes
+## License
+This project is a 'derived work' hence it is licensed with the same Java Service Wrapper Community Edition: [GPL version 2](http://www.gnu.org/licenses/gpl-2.0.html)).
+
+For more details on the license agreement and terms of use see http://wrapper.tanukisoftware.com/doc/english/licenseCommunity.html
+
 Java Service Wrapper requires a commercial license to run it on 64-bit Windows.
